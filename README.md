@@ -11,4 +11,4 @@ Installation:
 
 4)Go into game and hold shift then click L
 
-5) Have fun!
+5)Have fun!
